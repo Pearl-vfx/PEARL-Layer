@@ -11,9 +11,7 @@
 
 ---
 
-<img width="1024" height="576" alt="pearl_layer_evolution" src="https://github.com/user-attachments/assets/4e6d6f00-ef24-4695-8485-d9df2f0479e5" />
 <img width="1280" height="754" alt="pearl_layer_evolution_f" src="https://github.com/user-attachments/assets/6cc63f93-b63b-4e60-9ef5-957476831b55" />
-
 
 ### ⚡ Core Features
 
