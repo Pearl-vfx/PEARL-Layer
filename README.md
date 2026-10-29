@@ -47,7 +47,7 @@ All editions share the same uncompromised hyper-caching playback engine and OCIO
 ### 📅 Beta Status & Release
 * **Current Status:** Undergoing closed-beta production testing in studio environments.
 * **Platforms:** Initial launch for **Windows x64**. Native **Linux** and **macOS** editions are planned on the roadmap.
-* **Public Launch:** **v1.0 Public Beta** installer will be available in **November 2026** directly under GitHub Releases.
+* **Public Launch:** **Phase 1 (Standard & Advanced Free Editions)** will drop in **November 2026** directly under GitHub Releases. *Pro Studio Edition will follow shortly.*
 
 ⭐ **Star this repository** to stay updated on public download links and release notes.
 
