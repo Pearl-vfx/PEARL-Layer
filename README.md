@@ -9,10 +9,13 @@
   <img src="https://img.shields.io/badge/Public_Release-November_2026-2E7D32?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Release" />
 </p>
 
----<img width="1024" height="576" alt="pearl_layer_evolution" src="https://github.com/user-attachments/assets/4e6d6f00-ef24-4695-8485-d9df2f0479e5" />
+---
+
+<img width="1024" height="576" alt="pearl_layer_evolution" src="https://github.com/user-attachments/assets/4e6d6f00-ef24-4695-8485-d9df2f0479e5" />
+<img width="1280" height="754" alt="pearl_layer_evolution_f" src="https://github.com/user-attachments/assets/6cc63f93-b63b-4e60-9ef5-957476831b55" />
 
 
-### ⚡ Core Killer Features
+### ⚡ Core Features
 
 * 🔀 **Next-Gen A/B Comparison:**  
   Revolutionary multi-mode split, wipe, and difference comparison engine designed to inspect multi-version shots like never before.
