@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Public_Release-November_2026-2E7D32?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Release" />
 </p>
 
----
+---<img width="1024" height="576" alt="pearl_layer_evolution" src="https://github.com/user-attachments/assets/4e6d6f00-ef24-4695-8485-d9df2f0479e5" />
+
 
 ### ⚡ Core Killer Features
 
